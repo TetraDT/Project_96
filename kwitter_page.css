@@ -1,0 +1,9 @@
+#html,body{
+    background: linear-gradient(to left, grey 55%, yellow 45%);
+    height: 100%;
+    margin: 0;
+    }
+
+    input:hover{
+        background-color: blue;
+    }
